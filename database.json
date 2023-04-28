@@ -7,7 +7,7 @@
       'discount': 25444,
       'image': 'https://datausmxn.github.io/kiso_gaming/uc_1.png'
     },
-    {
+    { 
       'uc': 60,
       'amount': 2700,
       'isDiscount': true,
