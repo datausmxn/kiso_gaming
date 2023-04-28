@@ -4,27 +4,27 @@
         "amount": 1400,
         "isDiscount": false,
         "discount": 25444,
-        "image": "https: //datausmxn.github.io/kiso_gaming/uc_1.png"
+        "image": "https://datausmxn.github.io/kiso_gaming/uc_1.png"
     },
     {
         "uc": 60,
         "amount": 2700,
         "isDiscount": true,
         "discount": 25444,
-        "image": "https: //datausmxn.github.io/kiso_gaming/uc_2.png"
+        "image": "https://datausmxn.github.io/kiso_gaming/uc_2.png"
     },
     {
         "uc": 180,
         "amount": 7900,
         "isDiscount": false,
         "discount": 25444,
-        "image": "https: //datausmxn.github.io/kiso_gaming/uc_3.png"
+        "image": "https://datausmxn.github.io/kiso_gaming/uc_3.png"
     },
     {
         "uc": 900,
         "amount": 29900,
         "isDiscount": false,
         "discount": 25444,
-        "image": "https: //datausmxn.github.io/kiso_gaming/uc_4.png"
+        "image": "https://datausmxn.github.io/kiso_gaming/uc_4.png"
     }
 ]
